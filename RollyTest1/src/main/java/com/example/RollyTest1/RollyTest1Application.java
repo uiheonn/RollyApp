@@ -5,9 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class RollyTest1Application {
-
 	public static void main(String[] args) {
 		SpringApplication.run(RollyTest1Application.class, args);
 	}
-
 }
